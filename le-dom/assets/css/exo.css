@@ -1,0 +1,33 @@
+.red-banner {
+  background: #ff0000;
+  color: #fff;
+  padding: 15px;
+  text-align: center;
+  font-size: 28px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.blue-border {
+  border: 2px solid #0000ff;
+}
+.flashing-lights-container {
+  margin: 50px 0;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.flashing-light {
+  margin: 0 20px;
+  padding: 0;
+  width: 200px;
+  height: 200px;
+  border: 2px solid orange;
+  background: #fff;
+}
+.orange-bkg {
+  background: orange !important;
+}

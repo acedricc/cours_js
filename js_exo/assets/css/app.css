@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+textarea {
+  width: 500px;
+  height: 300px;
+}
+input {
+  width: 100px;
+  height: 70px;
+}
+.contenair {
+  text-align: center;
+  align-items: center;
+}
